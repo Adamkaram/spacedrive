@@ -10,7 +10,7 @@
   A file explorer from the future.
      <b>Download for </b>
     macOS
-		·
+		
     !(macOS Intel)[https://www.spacedrive.com/api/releases/desktop/stable/darwin/x86_64]
 
 		!(macOS AppleSelicon)[https://www.spacedrive.com/api/releases/desktop/stable/darwin/aarch64]

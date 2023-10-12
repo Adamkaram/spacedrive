@@ -11,20 +11,20 @@
      <b>Download for </b>
     macOS
 		
-    !(macOS Intel)[https://www.spacedrive.com/api/releases/desktop/stable/darwin/x86_64]
+    (macOS Intel)[https://www.spacedrive.com/api/releases/desktop/stable/darwin/x86_64]
 
 		!(macOS AppleSelicon)[https://www.spacedrive.com/api/releases/desktop/stable/darwin/aarch64]
-    ·
+    
     Windows
     !(Windows)[https://www.spacedrive.com/api/releases/desktop/stable/windows/x86_64]
-    ·
+   
     Linux
     !(Linux)[https://www.spacedrive.com/api/releases/desktop/stable/linux/x86_64]
-    ·
+   
     iOS
-    ·
+   
     watchOS
-    ·
+ 
     Android
     <br />
     <i>~ Links will be added once a release is available. ~</i>

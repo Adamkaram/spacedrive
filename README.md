@@ -13,7 +13,7 @@
     <br />
     <br />
     <b>Download for </b>
-   [macOSIntel](https://www.spacedrive.com/api/releases/desktop/stable/darwin/x86_64)
+   <a href="https://www.spacedrive.com/api/releases/desktop/stable/darwin/x86_64" >macOSIntel</a>
     ·
     Windows
     ·

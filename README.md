@@ -15,15 +15,15 @@
     <b>Download for </b>
    <a href="https://www.spacedrive.com/api/releases/desktop/stable/darwin/x86_64" >macOSIntel</a>
     ·
-    Windows
+		   <a href="https://www.spacedrive.com/api/releases/desktop/stable/windows/x86_64" >Windows</a>
     ·
-    Linux
+   <a href="https://www.spacedrive.com/api/releases/desktop/stable/linux/x86_64" >Linux</a>
     ·
-    iOS
+     <a href="" >IOS</a>
     ·
-    watchOS
+    <a href="" >watchOS</a>
     ·
-    Android
+		 <a href="" >Android</a>
     <br />
     <i>~ Links will be added once a release is available. ~</i>
   </p>
@@ -41,7 +41,7 @@ ___________-
     ·
 		[macOS AppleSelicon](https://www.spacedrive.com/api/releases/desktop/stable/darwin/aarch64)
     ·
-    [Windows](https://www.spacedrive.com/api/releases/desktop/stable/windows/x86_64)
+    [Windows]()
     ·
     [Linux](https://www.spacedrive.com/api/releases/desktop/stable/linux/x86_64)
     ·

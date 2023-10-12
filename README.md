@@ -20,7 +20,7 @@
     <a href="" >watchOS</a> ·
 		 <a href="" >Android</a> ·
     <br />
-    <i>~ Links will be added once a release is available. ~</i>
+    <i>~ Links for (IOS · watchOS · Android ) will be added once a release is available. ~</i>
   </p>
 </p>
 ___________-

@@ -13,12 +13,12 @@
     <br />
     <br />
     <b>Download for </b>
-   <a href="https://www.spacedrive.com/api/releases/desktop/stable/darwin/x86_64" >macOSIntel</a>
-		   <a href="https://www.spacedrive.com/api/releases/desktop/stable/windows/x86_64" >Windows</a>
-   <a href="https://www.spacedrive.com/api/releases/desktop/stable/linux/x86_64" >Linux</a>
-     <a href="" >IOS</a>
-    <a href="" >watchOS</a>
-		 <a href="" >Android</a>
+   <a href="https://www.spacedrive.com/api/releases/desktop/stable/darwin/x86_64" >macOSIntel</a> ·
+		   <a href="https://www.spacedrive.com/api/releases/desktop/stable/windows/x86_64" >Windows</a> ·
+   <a href="https://www.spacedrive.com/api/releases/desktop/stable/linux/x86_64" >Linux</a> ·
+     <a href="" >IOS</a> ·
+    <a href="" >watchOS</a> ·
+		 <a href="" >Android</a> ·
     <br />
     <i>~ Links will be added once a release is available. ~</i>
   </p>
